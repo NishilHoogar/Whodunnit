@@ -1,2 +1,1 @@
-#WHodunnit?
-#Find the culprit by matching their fingerprints!
+Find the culprit by matching their fingerprints!
