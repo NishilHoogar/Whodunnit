@@ -1,0 +1,40 @@
+body
+{
+  color: white;
+  background-image:url(bg.jpg);
+  /* background: rgb(67, 233, 95); */
+}
+span
+{
+  font-size: 60px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.gesture_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading{
+  font-size: 25px;
+  border-radius: 12px;
+  letter-spacing: 12px;
+}
+label{
+  font-size: 25px;
+  color: #62b33a;
+  padding: 12px;
+  border-radius: 12px;
+  background-color: white;
+}
